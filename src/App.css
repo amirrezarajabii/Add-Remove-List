@@ -1,0 +1,54 @@
+.mainTable{
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 1px solid black; */
+}
+
+.mainTable h1{
+  text-align: center;
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 20px;
+}
+
+.table input{
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  background-color: transparent;
+}
+.NoBorder{
+  border: none;
+}
+
+.bg-green{
+  background-color: #3ebac1;
+}
+
+.add-btn{
+  /* background-color:#939999; */
+  color: #23a7ae;
+  font-weight: 700;
+  border: 1px solid lightgray;
+  font-size: 14px;
+}
+.add-btn:hover{
+  border: 1px solid #23a7ae;
+  color: #23a7ae;
+}
+
+.del-btn{
+  color: red;
+  font-weight: 700;
+  border: 1px solid lightgray;
+  font-size: 14px;
+}
+.del-btn:hover{
+  border: 1px solid red;
+  color: red;
+}
+
+.ta-center{
+text-align: center;
+}
